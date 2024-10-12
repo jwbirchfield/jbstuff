@@ -1,3 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^pilot\.r$
+^LICENSE\.md$
+^jbstuff_pilot\.r$
+^README\.Rmd$
