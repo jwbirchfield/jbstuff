@@ -36,7 +36,9 @@ build_readme()
 
 ## DO THESE WHENEVER NEEDED
 
-# Edit key files
+# Commit to Git and push to Github through the Git pane.
+
+# Edit key files:
 file.edit('NAMESPACE')
 file.edit('LICENSE')
 file.edit('LICENSE.md')
